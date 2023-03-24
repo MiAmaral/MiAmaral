@@ -32,7 +32,8 @@
  🌐 Gostaria também de me conectar com você no LinkedIn! -> 
   <a href="https://www.linkedin.com/in/milenabamaral" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <br/><br/>
-  <p align="center">🍀</p>
+  <p align="center"><a href="https://github.com/MiAmaral"> <img align="center" height="80" width="80" style="border-radius:50px;" src="https://media0.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=ecf05e47jg0zcr6rtu48h26e1fqswt4uochaapiegx1jndh7&rid=giphy.gif&ct=s"> </a>
+  </p>
 </div>
 
 ![Snake animation](https://github.com/MiAmaral/MiAmaral/blob/output/github-contribution-grid-snake.svg)

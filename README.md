@@ -18,8 +18,8 @@
 <br/><br/>
 
 <div align="left">
-  <a href="https://github.com/MiAmaral"> <img align="center" height="180" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api?username=miamaral&show_icons=true&theme=onedark"> </a>
-  <a href="https://github.com/MiAmaral"> <img align="center" height="180" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamaral&show_icons=true&theme=onedark"> </a>
+  <a href="https://github.com/MiAmaral"> <img align="center" height="180" style="border-radius:50px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miamaral&show_icons=true&theme=onedark"> </a>
+  <a href="https://github.com/MiAmaral"> <img align="center" height="180" style="border-radius:50px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miamaral&show_icons=true&theme=onedark"> </a>
 </div>
 <br/>
 

@@ -1,6 +1,6 @@
 <h2>Olá!! Sou a Mi, seja bem-vindo/a ✌️</h2>
 
-  Sou estudante de ciências da computação apaixonada por programação. Compartilho meus projetos no GitHub e adoraria que você desse uma olhada. 😉
+  Sou desenvolvedora de sistemas e apaixonada por programação. Compartilho meus projetos no GitHub e adoraria que você desse uma olhada. 😉
 
 
 <div style="display: inline_block"><br>
@@ -17,14 +17,10 @@
 </div>
 <br/><br/>
 
-<div align="left">
-  <a href="https://github.com/MiAmaral"> <img align="center" height="180" style="border-radius:50px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miamaral&show_icons=true&theme=onedark"> </a>
-  <a href="https://github.com/MiAmaral"> <img align="center" height="180" style="border-radius:50px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miamaral&show_icons=true&theme=onedark"> </a>
-</div>
 <br/>
 
 <div>
-  <a href="https://github.com/MiAmaral"> <img align="right" height="160" src="https://i.imgur.com/9KWJ2rp.gif"></a>
+  <a href="https://github.com/MiAmaral"> <img align="right" height="30%" width="30%" src="https://i.imgur.com/9KWJ2rp.gif"></a>
 </div>
   <br/><br/><br/>
   
@@ -35,6 +31,4 @@
   <p align="center"><a href="https://github.com/MiAmaral"> <img align="center" height="80" width="80" style="border-radius:50px;" src="https://media0.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=ecf05e47jg0zcr6rtu48h26e1fqswt4uochaapiegx1jndh7&rid=giphy.gif&ct=s"> </a>
   </p>
 </div>
-
-![Snake animation](https://github.com/MiAmaral/MiAmaral/blob/output/github-contribution-grid-snake.svg)
 
